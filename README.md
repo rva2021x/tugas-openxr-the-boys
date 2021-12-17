@@ -10,7 +10,8 @@ Yang Udah :
 - Adding Weapon Collider for Killing Opponents ✅
 - Adding Adding Spawner for Spawning Opponents ✅
 - Adding Music ✅
+- Grab Weapon Masih batas wajar ✅
 
 Yang Blom :
-- Grab Weapon yang membuat player tidak terbang keluar angkasa  ❎
-- Adding Game Over for Player (Opsional)                        ❎
+- Adding Game Over for Player (Opsional) ❎
+- Adding Game Start NEED THIS LMAO ❎
